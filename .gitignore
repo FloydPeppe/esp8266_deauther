@@ -7,3 +7,6 @@ build/*
 .DS_Store
 
 utils/web_converter/css_html_js_minify/__pycache__/
+
+.pio/
+.vscode/
